@@ -151,7 +151,7 @@ export default function App() {
               </h1>
               
               <div className="bg-emerald-950/30 border border-emerald-500/20 px-3 py-1 rounded-full text-xs text-emerald-400 font-medium font-sans">
-                โหมดเวิลด์จำลอง 2D Sandbox Sandbox v1.4.0
+                โหมดเวิลด์จำลอง 2D Sandbox v1.4.0
               </div>
             </div>
 
