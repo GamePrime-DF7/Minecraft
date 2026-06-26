@@ -1,0 +1,6 @@
+{
+  "name": "Minecraft Start Menu",
+  "description": "Minecraft startup screen with Kanit font, options menu to map controls, custom logo, and immersive black-theme fade-in effect.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
